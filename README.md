@@ -5,8 +5,8 @@
 My name is Pranav Vyas. I'm pre-final year student pursuing B.Tech. in Information Technology from MITS, Gwalior.
 
 ### About Me
-- I love Problem solving through my coding skills.
 - 😄 Pronouns: He/His
+- 💡 I like Problem solving.
 - 👯 I’m looking to collaborate on Open Source Project.
 - 📫 How to reach me:
   - pranavvyas2016@gmail.com
@@ -18,10 +18,10 @@ My name is Pranav Vyas. I'm pre-final year student pursuing B.Tech. in Informati
 <!-- - ⚡ Fun fact: ... -->
 
 ### Skills
+- Programming Languages: Python, JavaScript
 - Front-end development: HTML, CSS, Bootstrap, React.js
 - Backend development: Node.js, Express.js, Database - MongoDB
 - Android development: Flutter
-- Solving DSA questions using Python
 
 ### Coding Platforms
 - CodeChef: https://www.codechef.com/users/vyas26
