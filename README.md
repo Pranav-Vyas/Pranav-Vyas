@@ -23,6 +23,18 @@ My name is Pranav Vyas. I'm pre-final year student pursuing B.Tech. in Informati
 - Backend development: Node.js, Express.js, Database - MongoDB
 - Android development: Flutter
 
+### Some Personal Projects
+- #### Twitter Clone:
+  - A twitter clone with the functionality of Login, Signup, tweet, retweet, like, comment, bookmark, view profile, explore, follow, sending messages in real time etc.
+  - Tech stack: Reactjs, Node.js, Express, MongoDB, Socket.io
+  - Source Code: https://github.com/Pranav-Vyas/Twitter-Clone
+- #### RedBank:
+  - Developed a website that would ease the process of finding a suitable blood donor and donating the blood for greater cause according to the location of the user.
+  - Tech stack: Node.js, Express, MongoDB, Passport.js
+  - Source Code: https://github.com/Pranav-Vyas/RedBank
+
+
+
 ### Coding Platforms
 - CodeChef: https://www.codechef.com/users/vyas26
 - Codeforces: https://codeforces.com/profile/Pranav-26
