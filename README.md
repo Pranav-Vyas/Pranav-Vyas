@@ -18,8 +18,8 @@ My name is Pranav Vyas. I'm pre-final year student pursuing B.Tech. in Informati
 <!-- - ⚡ Fun fact: ... -->
 
 ### Skills
-- Programming Languages: Python, JavaScript
-- Front-end development: HTML, CSS, Bootstrap, React.js
+- Programming Languages: Python
+- Front-end development: HTML, CSS, JavaScript, Bootstrap, React.js
 - Backend development: Node.js, Express.js, Database - MongoDB
 - Android development: Flutter
 
