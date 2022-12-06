@@ -2,7 +2,7 @@
 ### Hi there, I'm Pranav <img alt="👋" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" height="32"/>
 
 
-My name is Pranav Vyas. I'm pre-final year student pursuing B.Tech. in Information Technology from MITS, Gwalior.
+My name is Pranav Vyas. I'm final year student pursuing B.Tech. in Information Technology from MITS, Gwalior.
 
 ### About Me
 - 😄 Pronouns: He/His
