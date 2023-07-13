@@ -17,6 +17,9 @@ My name is Pranav Vyas. I'm final year student pursuing B.Tech. in Information T
 
 <!-- - ⚡ Fun fact: ... -->
 
+### Portfolio
+https://pranavvyas.vercel.app/
+
 ### Skills
 - Programming Languages: Python
 - Front-end development: HTML, CSS, JavaScript, React.js, Redux-toolkit
@@ -33,7 +36,8 @@ My name is Pranav Vyas. I'm final year student pursuing B.Tech. in Information T
   - Tech stack: Node.js, Express, MongoDB, Passport.js
   - Source Code: https://github.com/Pranav-Vyas/RedBank
 
-
+### Bloging Platforms
+https://pranavvyas.hashnode.dev/
 
 ### Coding Platforms
 - CodeChef: https://www.codechef.com/users/vyas26
