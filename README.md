@@ -2,18 +2,18 @@
 ### Hi there, I'm Pranav <img alt="👋" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" height="32"/>
 
 
-My name is Pranav Vyas. I'm final year student pursuing B.Tech. in Information Technology from MITS, Gwalior.
+My name is Pranav Vyas, a software engineer with specialization in web development. I have done my bachelor's in Information Technology.
 
 ### About Me
 - 😄 Pronouns: He/His
 - 💡 I like Problem solving.
-- 👯 I’m looking to collaborate on Open Source Project.
+- 👯 I’m looking for the role of Frontend Developer.
 - 📫 How to reach me:
   - pranavvyas2016@gmail.com
   - https://www.linkedin.com/in/pranav-vyas-b27673214/
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... --> 
+- 💬 Ask me about HTML, CSS, JavaScript, React.JS, Node.JS
 
 <!-- - ⚡ Fun fact: ... -->
 
@@ -25,6 +25,7 @@ https://pranavvyas.vercel.app/
 - Front-end development: HTML, CSS, JavaScript, React.js, Redux-toolkit
 - Backend development: Node.js, Express.js, Database - MongoDB
 - Android development: React-Native
+- Other: Data Structures and Algorithms, Operating Systems, DBMS, OOPS
 
 ### Some Personal Projects
 - #### Twitter Clone:
