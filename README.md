@@ -14,8 +14,7 @@ My name is Pranav Vyas, a software engineer with specialization in web developme
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about HTML, CSS, JavaScript, React.JS, Node.JS
-
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: functions are objects but Object is a function 😄
 
 ### Portfolio
 https://pranavvyas.vercel.app/
