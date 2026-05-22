@@ -9,15 +9,12 @@ My name is Pranav Vyas, a software engineer with specialization in web developme
 - 💡 I like Problem solving.
 - 👯 I’m looking for the role of Frontend Developer.
 - 📫 How to reach me:
-  - pranavvyas2016@gmail.com
   - https://www.linkedin.com/in/pranav-vyas-b27673214/
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about HTML, CSS, JavaScript, React.JS, Node.JS
 - ⚡ Fun fact: functions are objects but Object is a function 😄
 
-### Portfolio
-https://pranavvyas.vercel.app/
 
 ### Skills
 - Programming Languages: Python
@@ -39,8 +36,3 @@ https://pranavvyas.vercel.app/
 ### Bloging Platforms
 https://pranavvyas.hashnode.dev/
 
-### Coding Platforms
-- CodeChef: https://www.codechef.com/users/vyas26
-- Codeforces: https://codeforces.com/profile/Pranav-26
-- Leetcode: https://leetcode.com/Pranav_Vyas/
-- Geeksforgeeks: https://auth.geeksforgeeks.org/user/pranavvyas2016/profile
